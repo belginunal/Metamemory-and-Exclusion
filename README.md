@@ -3,7 +3,7 @@
 The raw data of the experiments reported in the paper "Judgments of Learning Reflect the Encoding of Contexts, Not Items: Evidence from the Relationship between Judgments of Learning and Forgetting Functions on a Test of Recognition Exclusion"
 
 
-## Sensitivity Analysis Folder
+## Sensitivity Analysis Scripts
 PowerSim is the main file and it contains the full analysis to output simulations (Sim_Result.csv file).
 
 It takes ~4 days to run the whole script on a regular computer.
